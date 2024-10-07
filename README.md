@@ -25,6 +25,7 @@ You can download it from my Github repository.
 you can start the application by following these steps.
 opne the application
 opne the terminal
+type NPM i if you dont have it.
 type NPM run start
 after you can contiune with opetions you see on there.
 
