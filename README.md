@@ -31,7 +31,7 @@ after you can contiune with opetions you see on there.
 
 ## video walk though
 
-[this is the video link for my project](https://app.screencastify.com/v3/watch/hitxJ7zmoa8lmx9ywiu5)
+[this is the video link for my project](https://app.screencastify.com/v3/watch/ZAuQ8mkooxYxfyhSaMg6)
 
 ## github
 
